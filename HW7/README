@@ -1,0 +1,2 @@
+the solveVCWithZoo(G, k) in ZOO.py takes in a graph and returns whether a
+VC cover is possible with k vertexes using an instance of ZOO.
